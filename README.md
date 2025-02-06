@@ -1,28 +1,40 @@
-# awesome-deep-research
-A list of resources on the topic of deep research implementation
+# Awesome Deep Research
+
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
+
+A curated list of resources and tools for deep research implementation.
 
 ## Table of Contents
 <!-- MarkdownTOC depth=4 -->
+- [Introduction](#introduction)
 - [Frameworks on Deep Research](#frameworks-and-libraries)
   - [Ollama Deep Researcher](#ollama-deep-research)
   - [Open Deep Research](#open-deep-research)
   - [GPT Researcher](#gpt-researcher)
 
+<a name="introduction"></a>
+## Introduction
+Deep research involves the use of advanced tools and frameworks to gather, analyze, and interpret data. This repository aims to provide a comprehensive list of resources to aid researchers in their work.
+
 <a name="frameworks-and-libraries"></a>
 ## Frameworks on Deep Research
 
+
 <a name="ollama-deep-research"></a>
-#### Ollama Deep Researcher
-[github](https://github.com/langchain-ai/ollama-deep-researcher)
+#### Ollama Deep Researcher [![GitHub](https://img.shields.io/badge/github-repo-blue.svg)](https://github.com/langchain-ai/ollama-deep-researcher)
 Available web search tools: 
 - Tavily API
 - Perplexity API
 
 <a name="open-deep-research"></a>
-#### Open Deep Research
-[github](https://github.com/nickscamara/open-deep-research)
+#### Open Deep Research [![GitHub](https://img.shields.io/badge/github-repo-blue.svg)](https://github.com/nickscamara/open-deep-research)
+Available web search tools: 
+- Firecrawl API
 
 <a name="gpt-researcher"></a>
-#### GPT Researcher
-[github](https://github.com/assafelovic/gpt-researcher)
+#### GPT Researcher [![GitHub](https://img.shields.io/badge/github-repo-blue.svg)](https://github.com/assafelovic/gpt-researcher)
+Available web search tools: 
+- Tavily API
+- Selenium (Browser Scraping)
 
