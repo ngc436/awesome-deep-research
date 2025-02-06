@@ -1,6 +1,5 @@
 # Awesome Deep Research
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 A curated list of resources and tools for deep research implementation.
