@@ -13,6 +13,7 @@ A curated list of resources and tools for deep research implementation.
   - [OpenDeepResearcher](#open-deep-researcher)
   - [Open Deep Research](#open-deep-research)
   - [GPT Researcher](#gpt-researcher)
+- [Blogposts](#blogposts)
 
 <a name="introduction"></a>
 ## Introduction
@@ -44,3 +45,8 @@ Available web search tools:
 - Tavily API
 - Selenium (Browser Scraping)
 
+<a name="blogposts"></a>
+## Blogposts
+
+- [Open-source DeepResearch – Freeing our search agents](https://huggingface.co/blog/open-deep-research)
+- [OpenAI Introducing deep research](https://openai.com/index/introducing-deep-research/)
