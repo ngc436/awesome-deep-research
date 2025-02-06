@@ -10,12 +10,13 @@ A curated list of resources and tools for deep research implementation.
 - [Introduction](#introduction)
 - [Frameworks on Deep Research](#frameworks-and-libraries)
   - [Ollama Deep Researcher](#ollama-deep-research)
+  - [OpenDeepResearcher](#open-deep-researcher)
   - [Open Deep Research](#open-deep-research)
   - [GPT Researcher](#gpt-researcher)
 
 <a name="introduction"></a>
 ## Introduction
-Deep research involves the use of advanced tools and frameworks to gather, analyze, and interpret data. This repository aims to provide a comprehensive list of resources to aid researchers in their work.
+Deep research involves the use of advanced tools and frameworks to gather, analyze, and interpret web data. This repository aims to provide a comprehensive list of resources to aid researchers in their work.
 
 <a name="frameworks-and-libraries"></a>
 ## Frameworks on Deep Research
@@ -26,6 +27,11 @@ Deep research involves the use of advanced tools and frameworks to gather, analy
 Available web search tools: 
 - Tavily API
 - Perplexity API
+
+<a name="open-deep-researcher"></a>
+#### Open Deep Researcher [![GitHub](https://img.shields.io/badge/github-repo-blue.svg)](https://github.com/mshumer/OpenDeepResearcher)
+Available web search tools: 
+- SERPAPI & Jina
 
 <a name="open-deep-research"></a>
 #### Open Deep Research [![GitHub](https://img.shields.io/badge/github-repo-blue.svg)](https://github.com/nickscamara/open-deep-research)
