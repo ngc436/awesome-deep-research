@@ -7,17 +7,24 @@ A curated list of resources and tools for deep research implementation.
 ## Table of Contents
 <!-- MarkdownTOC depth=4 -->
 - [Introduction](#introduction)
+- [Blogposts](#blogposts)
 - [Frameworks on Deep Research](#frameworks-and-libraries)
   - [Ollama Deep Researcher](#ollama-deep-research)
   - [OpenDeepResearcher](#open-deep-researcher)
   - [Open Deep Research](#open-deep-research)
   - [Open Deep Research](#deep-research)
   - [GPT Researcher](#gpt-researcher)
-- [Blogposts](#blogposts)
 
 <a name="introduction"></a>
 ## Introduction
-Deep research involves the use of advanced tools and frameworks to gather, analyze, and interpret web data. This repository aims to provide a comprehensive list of resources to aid researchers in their work.
+Deep research involves the use of advanced tools and frameworks to gather, analyze, and interpret web data on particular topic with the help of LLMs. 
+This repository aims to provide a comprehensive list of resources to aid researchers in their work.
+
+<a name="blogposts"></a>
+## Blogposts
+
+- [Open-source DeepResearch – Freeing our search agents](https://huggingface.co/blog/open-deep-research)
+- [OpenAI Introducing deep research](https://openai.com/index/introducing-deep-research/)
 
 <a name="frameworks-and-libraries"></a>
 ## Frameworks on Deep Research
@@ -54,9 +61,3 @@ Available features:
 Available web search tools: 
 - Tavily API
 - Selenium (Browser Scraping)
-
-<a name="blogposts"></a>
-## Blogposts
-
-- [Open-source DeepResearch – Freeing our search agents](https://huggingface.co/blog/open-deep-research)
-- [OpenAI Introducing deep research](https://openai.com/index/introducing-deep-research/)
